@@ -1,5 +1,5 @@
 Hi!! 👋 I'm Vinayak Hariharan  
-- 👀 I’m an aspiring Machine Learning Engineer with an Post Graduation in Business Analytics and Business Intelligence
+- 👀 I’m an aspiring ML/DS Engineer with a Post Graduation in Business Analytics and Business Intelligence
 - 📫 Reach me at h.vinayak05@gmail.com or dm on LinkedIn : https://www.linkedin.com/in/vinayak-hariharan-81292992/
 
 <!---
